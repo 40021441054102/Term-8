@@ -4,3 +4,6 @@
 [submodule "Fundamental-Animations"]
 	path = Fundamental-Animations
 	url = https://github.com/40021441054102/Fundamental-Animations.git
+[submodule "Multimedia-Systems"]
+	path = Multimedia-Systems
+	url = https://github.com/40021441054102/Multimedia-Systems.git
