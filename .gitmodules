@@ -1,0 +1,6 @@
+[submodule "Digital-Systems"]
+	path = Digital-Systems
+	url = https://github.com/40021441054102/Digital-Systems.git
+[submodule "Fundamental-Animations"]
+	path = Fundamental-Animations
+	url = https://github.com/40021441054102/Fundamental-Animations.git
