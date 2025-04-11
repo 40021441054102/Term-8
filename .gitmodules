@@ -7,3 +7,6 @@
 [submodule "Multimedia-Systems"]
 	path = Multimedia-Systems
 	url = https://github.com/40021441054102/Multimedia-Systems.git
+[submodule "Game-Designing"]
+	path = Game-Designing
+	url = https://github.com/40021441054102/Game-Designing.git
