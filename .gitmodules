@@ -10,3 +10,6 @@
 [submodule "Game-Designing"]
 	path = Game-Designing
 	url = https://github.com/40021441054102/Game-Designing.git
+[submodule "Electric-Circuits-Lab"]
+	path = Electric-Circuits-Lab
+	url = https://github.com/40021441054102/Electric-Circuits-Lab.git
