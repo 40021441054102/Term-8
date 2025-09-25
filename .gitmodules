@@ -13,3 +13,6 @@
 [submodule "Electric-Circuits-Lab"]
 	path = Electric-Circuits-Lab
 	url = https://github.com/40021441054102/Electric-Circuits-Lab.git
+[submodule "Matlab"]
+	path = Matlab
+	url = https://github.com/40021441054102/Matlab.git
